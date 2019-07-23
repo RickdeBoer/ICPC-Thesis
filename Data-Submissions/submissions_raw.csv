@@ -1,0 +1,100 @@
+submissionid,userid,userip,timestamp,problemseen,year,competition,problemname,problemid,abbriviation,category,timelimit,inputandoutputeasiness,codingamount,solutioneasiness,overalldifficulty
+19,dougnobrega,177.37.155.67,"2019-02-08 07:27:37",true,2018,"Latin America","Cheap Trips",620183,C,"Dynamic Programming",Unknown,Easy,Medium,Medium,3
+20,"André Winston",186.229.5.18,"2019-02-08 07:35:49",true,2016,"Latin America","Just in Time",7895,J,"number theory",3.000,Easy,Little,Medium,3
+21,Nson,189.6.27.107,"2019-02-08 07:36:35",false,2018,"Latin America","A Symmetrical Pizza",620181,A,math,Unknown,Easy,Little,Easy,1
+22,laderlappen,200.142.121.50,"2019-02-08 07:36:37",true,2018,"Latin America","Cheap Trips",620183,C,"dynamic programming",Unknown,Easy,Little,Medium,2
+23,RenatoBA,189.61.79.91,"2019-02-08 07:36:45",true,2018,"Latin America","A Symmetrical Pizza",620181,A,"Ad Hoc",Unknown,Easy,Little,Easy,2
+24,laderlappen,200.142.121.50,"2019-02-08 07:37:26",false,2018,"Latin America","A Symmetrical Pizza",620181,A,math,Unknown,Medium,Little,Easy,2
+25,"Eduardo Cardozo Cantarym Pedro",177.98.67.39,"2019-02-08 07:37:38",true,2018,"Latin America","Cheap Trips",620183,C,"Dynamic Programming",Unknown,Easy,Little,Easy,2
+26,laderlappen,200.142.121.50,"2019-02-08 07:37:47",true,2018,"Latin America","A Symmetrical Pizza",620181,A,math,Unknown,Medium,Little,Easy,2
+27,RenatoBA,189.61.79.91,"2019-02-08 07:38:20",true,2018,"Latin America","Escape, Polygon!",620185,E,Geometry,Unknown,Easy,Large,Medium,3
+28,laderlappen,200.142.121.50,"2019-02-08 07:38:47",true,2018,"Latin America","Fantastic Beasts",620186,F,"math, chinese remainder theorem",Unknown,Easy,Medium,Medium,4
+29,RenatoBA,189.61.79.91,"2019-02-08 07:39:04",true,2018,"Latin America","Fantastic Beasts",620186,F,Math,Unknown,Easy,Medium,Medium,3
+30,"Eduardo Cardozo Cantarym Pedro",177.98.67.39,"2019-02-08 07:39:08",true,2018,"Latin America","Database of Clients",620184,D,Adhoc,Unknown,Medium,Little,Easy,2
+31,laderlappen,200.142.121.50,"2019-02-08 07:40:00",true,2017,"Latin America","Keep it covered",8198,K,"bipartite matching",3.000,Medium,Medium,Hard,4
+32,"Eduardo Cardozo Cantarym Pedro",177.98.67.39,"2019-02-08 07:40:10",true,2018,"Latin America","Highway Decommission",620188,H,"Shortest Path",Unknown,Easy,Medium,Medium,3
+33,RenatoBA,189.61.79.91,"2019-02-08 07:40:21",true,2018,"Latin America","Highway Decommission",620188,H,Graph,Unknown,Easy,Medium,Easy,2
+34,laderlappen,200.142.121.50,"2019-02-08 07:40:47",true,2017,"Latin America","Arranging tiles",8188,A,"geometry, tsp, dynamic programming, bitmasks",3.000,Medium,Large,Medium,5
+35,RenatoBA,189.61.79.91,"2019-02-08 07:41:30",true,2018,"Latin America","Ink Colors",620189,I,Graph,Unknown,Easy,Large,Hard,4
+36,Kallaseldor,191.180.110.74,"2019-02-08 07:42:53",true,2018,"Latin America","A Symmetrical Pizza",620181,A,"brute force, gcd, implementation",Unknown,Easy,Little,Easy,1
+37,Kallaseldor,191.180.110.74,"2019-02-08 07:43:35",true,2018,"Latin America","Gathering Red-Black Fruits",620187,G,"geometry, combinatorics",Unknown,Easy,Large,Hard,5
+38,Kallaseldor,191.180.110.74,"2019-02-08 07:44:33",true,2018,"Latin America","Building a Field",620182,B,"geometry, two pointers",Unknown,Easy,Little,Medium,3
+39,"Yuri Cardoso Santamarina",191.55.57.199,"2019-02-08 07:45:55",false,2018,"Latin America","Escape, Polygon!",620185,E,geometry,Unknown,Easy,Little,Hard,4
+40,"Yuri Cardoso Santamarina",191.55.57.199,"2019-02-08 07:46:39",false,2016,"Latin America","Game of Matchings",7892,G,"string, kmp",3.000,Easy,Little,Medium,3
+41,Kallaseldor,191.180.110.74,"2019-02-08 07:46:52",true,2018,"Latin America","Cheap Trips",620183,C,"dynamic programming",Unknown,Easy,Medium,Medium,2
+42,"Yuri Cardoso Santamarina",191.55.57.199,"2019-02-08 07:47:26",false,2017,"Latin America",Marblecoin,8200,M,string,3.000,Easy,Large,Hard,4
+43,Kallaseldor,191.180.110.74,"2019-02-08 07:47:27",true,2018,"Latin America","Database of Clients",620184,D,implementation,Unknown,Hard,Medium,Easy,1
+44,"Caique Coelho",200.221.128.55,"2019-02-08 07:47:52",true,2016,"Latin America","Just in Time",7895,J,"mathematics, ad-hoc",3.000,Easy,Little,Medium,2
+45,Kallaseldor,191.180.110.74,"2019-02-08 07:47:55",true,2018,"Latin America","Escape, Polygon!",620185,E,"geometry, combinatorics",Unknown,Easy,Medium,Medium,4
+46,"Yuri Cardoso Santamarina",191.55.57.199,"2019-02-08 07:48:25",true,2017,"Latin America","Imperial roads",8196,I,graph,3.000,Easy,Medium,Easy,3
+47,"Yuri Cardoso Santamarina",191.55.57.199,"2019-02-08 07:48:51",false,2015,"Latin America","Cake cut",7205,C,geometry,3.000,Easy,Medium,Medium,3
+48,Kallaseldor,191.180.110.74,"2019-02-08 07:48:51",true,2018,"Latin America","Highway Decommission",620188,H,graphs,Unknown,Easy,Medium,Medium,3
+49,"Yuri Cardoso Santamarina",191.55.57.199,"2019-02-08 07:49:46",false,2017,"Latin America",Enigma,8192,E,"dynamic programming",3.000,Easy,Little,Easy,2
+50,"Yuri Cardoso Santamarina",191.55.57.199,"2019-02-08 07:50:37",false,2012,"Latin America","Interval Product",6139,I,"data structures",3.000,Medium,Little,Easy,2
+51,Kallaseldor,191.180.110.74,"2019-02-08 07:51:02",true,2018,"Latin America","Looking for the Risk Factor",6201812,L,"data structures, segment tree, fenwick tree, math",Unknown,Easy,Medium,Medium,3
+52,"Yuri Cardoso Santamarina",191.55.57.199,"2019-02-08 07:51:33",false,2012,"Latin America","Arranging Heaps",6131,A,"dynamic programming optimization",2.000,Easy,Medium,Easy,4
+53,"Caique Coelho",200.221.128.55,"2019-02-08 07:55:01",true,2016,"Latin America","Assigning Teams",7886,A,"mathematics, ad-hoc",3.000,Easy,Medium,Easy,1
+54,begv,201.160.156.147,"2019-02-08 08:18:47",true,2018,"Latin America","Cheap Trips",620183,C,"Dynamic programming",Unknown,Easy,Medium,Easy,2
+55,"Gerson Yesid Lázaro",179.32.65.113,"2019-02-08 08:32:57",true,2014,"Latin America","Automated Checking Machine",6821,A,adhoc,1.000,Easy,Little,Easy,1
+56,juniorandrade,177.209.192.134,"2019-02-08 08:58:54",true,2012,"Latin America","Boxes and Stones",6132,B,"dynamic programming",2.000,Easy,Medium,Medium,4
+57,pauloamed,177.64.205.182,"2019-02-08 09:30:05",false,2018,"Latin America","Escape, Polygon!",620185,E,geometry,Unknown,Unknown,Medium,Medium,4
+58,Thilio,187.87.127.86,"2019-02-08 10:09:30",true,2017,"Latin America","Jumping Frog",8197,J,"Number Theory",3.000,Easy,Medium,Medium,2
+59,"Lucas Lopes Pereira",177.132.234.60,"2019-02-08 10:11:44",false,2018,"Latin America","A Symmetrical Pizza",620181,A,geometry,Unknown,Easy,Little,Easy,2
+60,Thilio,187.87.127.86,"2019-02-08 10:14:00",true,2016,"Latin America","Kill the Werewolf",7896,K,"maximum flow",3.000,Easy,Medium,Medium,3
+61,Thilio,187.87.127.86,"2019-02-08 10:16:52",true,2015,"Latin America","Galactic taxes",7209,G,"djikstra, ternaty search",3.000,Easy,Medium,Hard,3
+62,Thilio,187.87.127.86,"2019-02-08 10:21:17",true,2012,"Latin America","Interval Product",6139,I,"segmentation tree",3.000,Easy,Medium,Easy,2
+63,"Bruno Almêda de Oliveira",200.18.173.102,"2019-02-08 10:28:52",false,2012,"Latin America","Interval Product",6139,I,"Prefix "multiplication", Segment Tree, Sparse Table",3.000,Easy,Little,Easy,1
+64,"Bruno Almêda de Oliveira",200.18.173.102,"2019-02-08 10:29:46",false,2012,"Latin America","Hours and Minutes",6138,H,Geometry,1.000,Easy,Little,Easy,2
+65,"Bruno Almêda de Oliveira",200.18.173.102,"2019-02-08 10:30:59",true,2012,"Latin America","Different Digits",6134,D,"Ad Hoc, Prefix Sum",1.000,Easy,Little,Easy,1
+66,"Bruno Almêda de Oliveira",200.18.173.102,"2019-02-08 10:32:34",false,2018,"Latin America","Looking for the Risk Factor",6201812,L,"Number Theory",Unknown,Easy,Medium,Medium,3
+67,Thilio,187.87.127.86,"2019-02-08 10:32:40",true,2018,"Latin America","Mount Marathon",6201813,M,"ad hoc",Unknown,Easy,Little,Easy,1
+68,"Bruno Almêda de Oliveira",200.18.173.102,"2019-02-08 10:33:01",false,2018,"Latin America","Mount Marathon",6201813,M,"Ad Hoc",Unknown,Easy,Little,Easy,1
+69,"Bruno Almêda de Oliveira",200.18.173.102,"2019-02-08 10:33:40",false,2018,"Latin America","Highway Decommission",620188,H,"Graph, Shortest Path",Unknown,Easy,Medium,Medium,3
+70,"Bruno Almêda de Oliveira",200.18.173.102,"2019-02-08 10:34:05",false,2018,"Latin America","Ink Colors",620189,I,Greedy,Unknown,Easy,Medium,Medium,3
+71,Anderson,191.246.5.17,"2019-02-08 12:03:47",true,2018,"Latin America","A Symmetrical Pizza",620181,A,Geometry,Unknown,Easy,Little,Easy,1
+72,Anderson,191.246.5.17,"2019-02-08 12:04:17",true,2018,"Latin America","A Symmetrical Pizza",620181,A,Geometry,Unknown,Easy,Little,Easy,1
+73,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 20:51:36",true,2018,"Latin America","A Symmetrical Pizza",620181,A,"Ad Hoc, Mathematics",Unknown,Easy,Little,Medium,2
+74,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 20:52:32",true,2018,"Latin America","Building a Field",620182,B,"Mathematics, Geometry",Unknown,Easy,Little,Medium,3
+75,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 20:53:47",true,2018,"Latin America","Cheap Trips",620183,C,"Dynamic Programming",Unknown,Easy,Little,Easy,2
+76,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 20:54:26",true,2018,"Latin America","Database of Clients",620184,D,"Ad Hoc, String Manipulation",Unknown,Easy,Medium,Easy,1
+77,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 20:56:48",true,2018,"Latin America","Mount Marathon",6201813,M,"Ad Hoc",Unknown,Easy,Little,Medium,2
+78,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 21:00:45",true,2017,"Latin America","Buggy ICPC",8189,B,"Ad Hoc",3.000,Easy,Medium,Medium,3
+79,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 21:05:02",true,2017,"Latin America",Fundraising,8193,F,Flux,3.000,Easy,Large,Easy,4
+80,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 21:05:24",true,2017,"Latin America","Hard choice",8195,H,"Ad Hoc",3.000,Easy,Little,Easy,1
+81,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 21:06:53",true,2016,"Latin America","Assigning Teams",7886,A,"Ad Hoc",3.000,Easy,Little,Easy,1
+82,"Leonardo Tironi Fassini",168.0.92.250,"2019-02-08 21:10:03",true,2016,"Latin America","Farm robot",7891,F,"Ad Hoc",3.000,Easy,Little,Easy,1
+83,edimais,177.137.119.73,"2019-02-09 04:38:45",true,2018,"Latin America","A Symmetrical Pizza",620181,A,"LCM, mathematics",Unknown,Medium,Little,Easy,2
+84,edimais,177.137.119.73,"2019-02-09 04:42:34",true,2018,"Latin America","Building a Field",620182,B,adhoc,Unknown,Easy,Medium,Medium,3
+85,edimais,177.137.119.73,"2019-02-09 04:44:01",true,2018,"Latin America","Cheap Trips",620183,C,"dynamic programming",Unknown,Easy,Medium,Easy,3
+86,edimais,177.137.119.73,"2019-02-09 04:46:02",true,2018,"Latin America","Database of Clients",620184,D,string,Unknown,Easy,Little,Easy,1
+87,edimais,177.137.119.73,"2019-02-09 04:48:56",true,2018,"Latin America","Ink Colors",620189,I,"DFS, graph",Unknown,Easy,Medium,Medium,3
+88,"Bixão da Goiaba",201.1.109.199,"2019-02-09 16:41:36",false,2012,"Latin America","Joining Couples",6140,J,graph,2.000,Easy,Large,Medium,4
+89,Weiss,187.39.40.121,"2019-02-10 11:33:08",true,2018,"Latin America","Cheap Trips",620183,C,"dynamic programming",Unknown,Easy,Little,Easy,3
+97,"Jong Young Lee",125.132.219.252,"2019-02-12 06:29:24",true,2018,Peking,Triangles,20189,I,"data structures",6.000,Hard,Medium,Medium,3
+98,"Javier Ojeda",181.177.170.128,"2019-02-18 17:46:34",true,2017,"Rapid City","Mission Improbable",8041,C,"Maximum Cardinality Bipartite Matching, Flow Networks",3.000,Medium,Medium,Easy,2
+99,"Javier Ojeda",181.177.170.128,"2019-02-18 17:47:22",true,2016,Phuket,"Ceiling Function",7578,C,"Binary Search Tree, Isomorphism",10.000,Easy,Little,Easy,1
+100,"Javier Ojeda",181.177.170.128,"2019-02-18 17:48:03",true,2012,Warsaw,"Bus Tour",6028,C,"Travel Salesman Problem",20.000,Easy,Medium,Medium,3
+101,"Javier Ojeda",181.177.170.128,"2019-02-18 17:48:37",true,2012,Warsaw,"Takeover Wars",6037,L,Greedy,10.000,Easy,Large,Medium,3
+102,"Javier Ojeda",181.177.170.128,"2019-02-18 17:49:22",true,2012,Warsaw,"Fibonacci Words",6029,D,"Knuth Morris Pratt, Dynamic Programming",5.000,Easy,Medium,Hard,4
+104,"Javier Ojeda",181.177.170.128,"2019-02-19 15:28:27",true,2014,"Latin America","Automated Checking Machine",6821,A,"Ad Hoc",1.000,Easy,Little,Easy,1
+105,"Javier Ojeda",181.177.170.128,"2019-02-19 15:29:02",true,2013,"Latin America","Attacking rooks",6525,A,"Maximum Cardinality Bipartite Matching",20.000,Medium,Large,Medium,3
+106,"Javier Ojeda",181.177.170.128,"2019-02-19 15:30:37",true,2016,"Southwestern Europe","The White Rabbit Pocket Watch",7652,I,"Gaussian Elimination, Shortest Paths, Weighted Graph",2.000,Easy,Large,Hard,4
+107,"Javier Ojeda",181.177.170.128,"2019-02-19 15:32:52",true,2017,"Rapid City","Secret Chamber at Mount Rushmore",8047,I,"BFS, Floyd-Warshall, All Pair Shortest Path",3.000,Easy,Little,Easy,1
+108,"Javier Ojeda",181.177.170.128,"2019-02-19 15:33:40",true,2016,"Latin America","Hotel Rewards",7893,H,Greedy,3.000,Easy,Little,Medium,2
+109,"Javier Ojeda",181.177.170.128,"2019-02-19 15:34:02",true,2016,"Latin America","Dating On-Line",7889,D,Geometry,3.000,Easy,Little,Easy,2
+110,"Javier Ojeda",181.177.170.128,"2019-02-19 15:34:25",true,2016,"Latin America","Farm robot",7891,F,"Ad Hoc",3.000,Easy,Little,Easy,1
+111,"Javier Ojeda",181.177.170.128,"2019-02-19 15:35:07",true,2016,"Latin America","Kill the Werewolf",7896,K,"Max Flow, Network Flow",3.000,Medium,Large,Medium,2
+112,"Javier Ojeda",181.177.170.128,"2019-02-19 15:36:05",true,2016,"Southwestern Europe","Performance Review",7649,F,"Segment Tree, Binary Indexed Tree, Pre Order, Post Order",5.000,Easy,Medium,Medium,3
+113,"Javier Ojeda",181.177.170.128,"2019-02-19 15:36:34",true,2015,"Latin America","At most twice",7203,A,"Backtracking, DP on Digits",1.000,Easy,Little,Easy,1
+114,"Javier Ojeda",181.177.170.128,"2019-02-19 15:36:56",true,2015,"Latin America","Identifying tea",7211,I,"Ad Hoc",1.000,Easy,Little,Easy,1
+115,juckter,187.190.186.206,"2019-02-23 19:12:46",true,2018,"Latin America","Gathering Red-Black Fruits",620187,G,math,Unknown,Easy,Medium,Hard,4
+116,juckter,187.190.186.206,"2019-02-23 19:13:54",true,2017,"Latin America","Gates of uncertainty",8194,G,"dynamic programming, trees",3.000,Easy,Medium,Medium,3
+117,juckter,187.190.186.206,"2019-02-23 19:14:55",true,2017,"Latin America","Keep it covered",8198,K,flows,3.000,Easy,Medium,Hard,4
+118,"Javier Ojeda",190.11.71.76,"2019-03-01 13:25:45",true,2014,Ekaterinburg,Surveillance,6780,K,"Dynamic Programming",5.000,Easy,Little,Medium,3
+119,"Javier Ojeda",190.11.71.76,"2019-03-01 13:28:50",true,2015,"Latin America","D as in Daedalus",7206,D,Greedy,1.000,Easy,Little,Easy,1
+120,"Javier Ojeda",190.11.71.76,"2019-03-01 13:29:18",true,2015,"Latin America","Height map",7210,H,"Graphs, Euler Theorem",1.000,Easy,Little,Medium,1
+121,"Javier Ojeda",190.11.71.76,"2019-03-01 13:29:52",true,2015,"Latin America","Exposing corruption",7207,E,"Strongly Connected Components, Knapsack, Dynamic Programming",1.000,Easy,Medium,Easy,2
+122,"Javier Ojeda",190.11.71.76,"2019-03-01 13:30:39",true,2015,"Central Europe","ASCII Addition",7324,A,Adhoc,3.000,Easy,Large,Easy,1
+123,"Javier Ojeda",190.11.71.76,"2019-03-01 13:31:10",true,2014,"Southwestern Europe","GREAT + SWERC = PORTO",6884,A,Backtracking,5.000,Easy,Medium,Easy,2
+124,"Javier Ojeda",181.177.186.4,"2019-03-13 12:58:25",true,2012,"Latin America","Cellphone Typing",6133,C,Trie,5.000,Easy,Medium,Easy,2
+125,"Javier Ojeda",181.177.186.4,"2019-03-13 13:03:22",true,2014,"Latin America","Intrepid climber",6829,I,DFS,2.000,Easy,Little,Easy,2

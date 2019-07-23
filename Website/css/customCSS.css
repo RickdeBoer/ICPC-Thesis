@@ -1,0 +1,61 @@
+/*!
+ * Some additional css
+ */
+#iframecontainer {
+  height:90%;
+}
+
+@media(max-width:767px){
+  #iframecontainer {
+    height:450px;
+    margin-bottom:5px;
+  }
+}
+
+
+.footer {
+  margin-top:20px;
+}
+.second-row { flex-grow: 1; height: 100%;width: 100%; margin: 0; padding: 0; }
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.nav-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-info:hover {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.btn-outline-info {
+  border-color: #007bff;
+}
+
+.btn-outline-info:hover {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.btn-info:not(:disabled):not(.disable).active,
+.btn-outline-info:not(:disabled):not(.disable).active {
+  background-color: gray;
+  border-color: gray;
+}
+
+label {
+  margin-top: .2rem;
+  margin-bottom: 0;
+}
